@@ -1,0 +1,37 @@
+[
+    {
+        "image_id": "aloo_parantha.jpg",
+        "question": "Which condiment is placed closet to the parantha on the table.",
+        "answer_choices":[
+            "A. Pickle",
+            "B. Chutney",
+            "C. Chilly",
+            "D. Onion slices",
+            "Given the image, choose one answer out of A,B,C,D. Answer:"
+        ],
+
+        "correct_answer": "D. Onion slices",
+        "reason": "hhfdjkdjknsjfpje",
+        "type": "allergens and dietary restrictions",
+        "items": "parantha, raita, pickle, chutney",
+        "positiions": "1. parantha-top left\n2.raita-bottom left\n3.pickle-bottom right\n4.chutney-bottom right" 
+    },
+
+    {
+        "image_id": "uttapam.jpg",
+        "question": "What is the main item in the dish",
+        "answer_choices":[
+            "A. Uttapam",
+            "B. Chutney",
+            "C. Sambar",
+            "D. Onion",
+            "Given the image, choose one answer out of A,B,C,D. Answer:"
+        ],
+
+        "correct_answer": "A. Uttapam",
+        "reason": "it is the main course",
+        "type": "Ingredient",
+        "items": "uttapam, sambar, chutney",
+        "positiions": "1. uttapam-top left\n2.chutney-bottom left\n3.sambar-bottom right" 
+    }
+]
